@@ -1,4 +1,4 @@
-## Hi there 👋
+## 개인 이력서 파일입니다.
 
 <!--
 **nonani/nonani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
